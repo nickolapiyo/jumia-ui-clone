@@ -2,8 +2,8 @@ import React from "react";
 //Styles
 import { Wrapper, Content } from "./CartLink.styles";
 //Images
-import Cart from '../../images/shopping-cart.svg';
-import ArrowDown from '../../images/arrow-down.svg';
+import Cart from '../../../images/shopping-cart.svg';
+//import ArrowDown from '../../../images/arrow-down.svg'
 
 function CartLink(){
   return(

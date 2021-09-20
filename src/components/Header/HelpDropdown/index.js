@@ -2,8 +2,8 @@ import React from "react";
 //Styles
 import { Wrapper, Content } from "./HelpDropdown.styles";
 //Images
-import Help from '../../images/information.svg';
-import ArrowDown from '../../images/arrow-down.svg';
+import Help from '../../../images/information.svg';
+import ArrowDown from '../../../images/arrow-down.svg';
 
 function HelpDropdown(){
   return(

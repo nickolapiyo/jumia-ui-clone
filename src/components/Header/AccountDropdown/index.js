@@ -2,8 +2,8 @@ import React from "react";
 //Styles
 import { Wrapper, Content } from "./AccountDropdown.styles";
 //Images
-import User from '../../images/user.svg';
-import ArrowDown from '../../images/arrow-down.svg';
+import User from '../../../images/user.svg';
+import ArrowDown from '../../../images/arrow-down.svg'
 
 function AccountDropdown(){
     return(

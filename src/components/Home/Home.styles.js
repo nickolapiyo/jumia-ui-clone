@@ -20,5 +20,5 @@ export const Content = styled.div`
     flex: 0 1 auto;
     display: flex;
     /*height: 500px; */
-    min-height: 100vh;
+    /* min-height: 100vh; */
 `;

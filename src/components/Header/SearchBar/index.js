@@ -2,7 +2,7 @@ import React from "react";
 //Styles
 import { Form, Content, Button } from './SearchBar.styles';
 //Images
-import SearchIcon from '../../images/icons8-search.svg';
+import SearchIcon from '../../../images/icons8-search.svg';
 
 function SearchBar() {
     return (
